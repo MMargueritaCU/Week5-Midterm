@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="41px" height="51px" viewBox="0 0 41 51" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 50.3333 40.657 50.3333 40.657 0.0003 0 0.0003"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Drexel-Web" transform="translate(-581.000000, -1112.000000)">
+            <g id="Ingredients" transform="translate(26.000000, 773.000000)">
+                <g id="icons" transform="translate(0.000000, 120.000000)">
+                    <g id="5" transform="translate(384.000000, 219.000000)">
+                        <g id="icon" transform="translate(171.000000, 0.000000)">
+                            <path d="M31.4905,22.6663 L31.4905,45.7333 C31.4905,47.7133 29.8705,49.3333 27.8895,49.3333 L6.5905,49.3333 C4.6105,49.3333 2.9905,47.7133 2.9905,45.7333 L2.9905,22.6663 L31.4905,22.6663 Z" id="Stroke-1" stroke="#FF9600" stroke-width="2" stroke-linecap="round"></path>
+                            <path d="M31.927,26.5804 C32.45,26.4194 33.003,26.3334 33.573,26.3334 C36.933,26.3334 39.656,29.3184 39.656,32.9994 C39.656,36.6824 36.933,39.6664 33.573,39.6664 C32.842,39.6664 32.14,39.5254 31.49,39.2654" id="Stroke-3" stroke="#FF9600" stroke-width="2" stroke-linecap="round"></path>
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Clip-6"></g>
+                            <polygon id="Stroke-5" stroke="#FF9600" stroke-width="2" stroke-linecap="round" mask="url(#mask-2)" points="13.656 22.6663 23.49 22.6663 23.49 0.9993 13.656 0.9993"></polygon>
+                            <path d="M18.5735,5.8333 L23.4905,5.8333" id="Stroke-7" stroke="#FF9600" stroke-width="2" stroke-linecap="round" mask="url(#mask-2)"></path>
+                            <path d="M20.1565,9.8333 L23.4905,9.8333" id="Stroke-8" stroke="#FF9600" stroke-width="2" stroke-linecap="round" mask="url(#mask-2)"></path>
+                            <path d="M18.5735,13.8333 L23.4905,13.8333" id="Stroke-9" stroke="#FF9600" stroke-width="2" stroke-linecap="round" mask="url(#mask-2)"></path>
+                            <path d="M20.1565,17.8333 L23.4905,17.8333" id="Stroke-10" stroke="#FF9600" stroke-width="2" stroke-linecap="round" mask="url(#mask-2)"></path>
+                            <polygon id="Stroke-11" stroke="#FF9600" stroke-width="2" stroke-linecap="round" mask="url(#mask-2)" points="1.4905 8.6668 2.9905 16.8338 5.9905 22.6668 13.6565 22.6668 7.5735 13.8338"></polygon>
+                            <path d="M2.9905,16.8333 L7.5735,13.8333" id="Stroke-12" stroke="#FF9600" stroke-width="2" stroke-linecap="round" mask="url(#mask-2)"></path>
+                            <path d="M24.8235,21.1668 L29.8235,13.8338" id="Stroke-13" stroke="#FF9600" stroke-width="2" stroke-linecap="round" mask="url(#mask-2)"></path>
+                            <path d="M29.8235,21.8333 C30.1565,20.8333 33.1565,15.3333 33.1565,15.3333" id="Stroke-14" stroke="#FF9600" stroke-width="2" stroke-linecap="round" mask="url(#mask-2)"></path>
+                            <path d="M30.3245,3.0711 C30.3245,3.0711 37.8245,3.9041 35.9915,13.0711 C35.9915,13.0711 34.9915,15.2381 31.6585,14.4041 C28.3245,13.5711 28.3245,11.7381 28.9915,9.9041 C29.6585,8.0711 31.4915,7.9041 30.3245,3.0711 Z" id="Stroke-15" stroke="#FF9600" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

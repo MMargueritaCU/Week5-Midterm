@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="52px" height="43px" viewBox="0 0 52 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Drexel-Web" transform="translate(-185.000000, -1117.000000)">
+            <g id="Ingredients" transform="translate(26.000000, 773.000000)">
+                <g id="icons" transform="translate(0.000000, 120.000000)">
+                    <g id="4" transform="translate(0.000000, 225.000000)">
+                        <g id="icon" transform="translate(160.000000, 0.000000)">
+                            <path d="M45.8999,40.75 L9.5999,40.75 C7.6119,40.75 5.9999,39.138 5.9999,37.15 L5.9999,17.75 L5.9999,12.6 C5.9999,10.612 7.6119,9 9.5999,9 L45.8999,9 C47.8879,9 49.4999,10.612 49.4999,12.6 L49.4999,37.15 C49.4999,39.138 47.8879,40.75 45.8999,40.75" id="Fill-1" fill="#FFFFFF"></path>
+                            <path d="M45.8999,40.75 L9.5999,40.75 C7.6119,40.75 5.9999,39.138 5.9999,37.15 L5.9999,17.75 L5.9999,12.6 C5.9999,10.612 7.6119,9 9.5999,9 L45.8999,9 C47.8879,9 49.4999,10.612 49.4999,12.6 L49.4999,37.15 C49.4999,39.138 47.8879,40.75 45.8999,40.75 Z" id="Stroke-3" stroke="#D72B2C" stroke-width="2" stroke-linecap="round"></path>
+                            <path d="M48.25,18 L6,17.75" id="Stroke-5" stroke="#D72B2C" stroke-width="2" stroke-linecap="round"></path>
+                            <path d="M39.8999,31.75 L3.5999,31.75 C1.6119,31.75 -0.0001,30.138 -0.0001,28.15 L-0.0001,8.75 L-0.0001,3.6 C-0.0001,1.612 1.6119,0 3.5999,0 L39.8999,0 C41.8879,0 43.4999,1.612 43.4999,3.6 L43.4999,28.15 C43.4999,30.138 41.8879,31.75 39.8999,31.75" id="Fill-7" fill="#FFFFFF"></path>
+                            <path d="M39.8999,31.75 L3.5999,31.75 C1.6119,31.75 -0.0001,30.138 -0.0001,28.15 L-0.0001,8.75 L-0.0001,3.6 C-0.0001,1.612 1.6119,0 3.5999,0 L39.8999,0 C41.8879,0 43.4999,1.612 43.4999,3.6 L43.4999,28.15 C43.4999,30.138 41.8879,31.75 39.8999,31.75 Z" id="Stroke-9" stroke="#D72B2C" stroke-width="2" stroke-linecap="round"></path>
+                            <path d="M42.25,9 L0,8.75" id="Stroke-11" stroke="#D72B2C" stroke-width="2" stroke-linecap="round"></path>
+                            <path d="M7.75,4.5 C7.75,5.19 7.19,5.75 6.5,5.75 C5.81,5.75 5.25,5.19 5.25,4.5 C5.25,3.81 5.81,3.25 6.5,3.25 C7.19,3.25 7.75,3.81 7.75,4.5" id="Fill-13" fill="#D72B2C"></path>
+                            <path d="M12.25,4.5 C12.25,5.19 11.69,5.75 11,5.75 C10.31,5.75 9.75,5.19 9.75,4.5 C9.75,3.81 10.31,3.25 11,3.25 C11.69,3.25 12.25,3.81 12.25,4.5" id="Fill-15" fill="#D72B2C"></path>
+                            <path d="M16.75,4.5 C16.75,5.19 16.19,5.75 15.5,5.75 C14.81,5.75 14.25,5.19 14.25,4.5 C14.25,3.81 14.81,3.25 15.5,3.25 C16.19,3.25 16.75,3.81 16.75,4.5" id="Fill-17" fill="#D72B2C"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>info mark</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="1.18530403e-16 15.9996 1.18530403e-16 0.2816 15.7186 0.2816 15.7186 15.9996 0 15.9996"></polygon>
+        <polygon id="path-3" points="0 16.7188 15.719 16.7188 15.719 0.9998 0 0.9998"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Drexel-Web" transform="translate(-525.000000, -3400.000000)">
+            <g id="Pricing" transform="translate(0.000000, 2918.000000)">
+                <g id="pricing-card" transform="translate(223.000000, 91.000000)">
+                    <g id="bottom" transform="translate(106.000000, 276.000000)">
+                        <g id="info-mark" transform="translate(196.000000, 114.000000)">
+                            <g id="Group-3" transform="translate(0.000000, 0.718800)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <g id="Clip-2"></g>
+                                <path d="M15.7186,8.1406 C15.7186,12.4816 12.1996,15.9996 7.8596,15.9996 C3.5186,15.9996 -0.0004,12.4816 -0.0004,8.1406 C-0.0004,3.7996 3.5186,0.2816 7.8596,0.2816 C12.1996,0.2816 15.7186,3.7996 15.7186,8.1406" id="Fill-1" fill="#9ED130" mask="url(#mask-2)"></path>
+                            </g>
+                            <mask id="mask-4" fill="white">
+                                <use xlink:href="#path-3"></use>
+                            </mask>
+                            <g id="Clip-5"></g>
+                            <path d="M7.002,4.9588 L8.856,4.9588 L8.856,3.5678 L7.002,3.5678 L7.002,4.9588 Z M6.107,12.3598 L7.003,12.1698 L7.003,7.9098 L6.013,7.7198 L6.013,6.6028 L8.856,6.6028 L8.856,12.1698 L9.745,12.3598 L9.745,13.4708 L6.107,13.4708 L6.107,12.3598 Z" id="Fill-4" fill="#FFFFFF" mask="url(#mask-4)"></path>
+                            <path d="M7.002,4.9588 L8.856,4.9588 L8.856,3.5678 L7.002,3.5678 L7.002,4.9588 Z M6.107,12.3598 L7.003,12.1698 L7.003,7.9098 L6.013,7.7198 L6.013,6.6028 L8.856,6.6028 L8.856,12.1698 L9.745,12.3598 L9.745,13.4708 L6.107,13.4708 L6.107,12.3598 Z" id="Stroke-6" stroke="#FFFFFF" stroke-width="0.25" mask="url(#mask-4)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
