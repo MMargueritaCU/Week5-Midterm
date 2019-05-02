@@ -1,0 +1,31 @@
+/* =============
+    About
+============= */
+#about{
+  text-align: center;
+  h1{
+    font-size: rem-calc(25);
+    font-weight: 600;
+    line-height: 36px;
+    padding-top: 41px;
+  }
+  h2{
+    font-size: rem-calc(28);
+    font-weight: 700;
+    line-height: 38px;
+    color: $blueText;
+    padding-bottom: 48px;
+  }
+  article{
+    text-align: left;
+    h3{
+      color: $blueText;
+    }
+    p{
+      font-size: rem-calc(16);
+      line-height: 31px;
+      padding-top: 10px;
+      padding-bottom: 40px;
+    }
+  }
+}

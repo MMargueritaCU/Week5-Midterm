@@ -1,0 +1,22 @@
+/* =============
+    Heroes
+============= */
+#heroes{
+  background-image: url("../img/hero/hero-1.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 12px 0 41px;
+  text-align: center;
+  h1{
+    color: $blueText;
+    font-size: rem-calc(21);
+    line-height: 28px;
+  }
+  h2{
+    color: $white;
+    font-size: rem-calc(43);
+    line-height: 59px;
+    font-weight: 700;
+  }
+
+}
