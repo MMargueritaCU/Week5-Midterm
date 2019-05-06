@@ -360,7 +360,11 @@ body {
         Header css
 ================================ */
 #header {
-  padding: 10px; }
+  padding: 15px 0 20px; }
+  #header div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; }
 
 /* ================================
         Footer css
@@ -387,7 +391,7 @@ body {
   background-image: url("../img/hero/hero-1.jpg");
   background-size: cover;
   background-position: center;
-  padding: 12px 0 41px;
+  padding: 279px 0 120px;
   text-align: center; }
   #heroes h1 {
     color: #1CB9C8;
@@ -406,7 +410,7 @@ body {
   text-align: center; }
   #about h1 {
     font-size: 1.5625rem;
-    font-weight: 600;
+    font-weight: 400;
     line-height: 36px;
     padding-top: 41px; }
   #about h2 {
@@ -418,7 +422,10 @@ body {
   #about article {
     text-align: left; }
     #about article h3 {
-      color: #1CB9C8; }
+      color: #1CB9C8;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around; }
     #about article p {
       font-size: 1rem;
       line-height: 31px;
@@ -432,6 +439,8 @@ body {
   background-image: url("../img/hero/hero-2.jpg");
   background-size: cover;
   background-position: center; }
+  #skills h3 {
+    text-align: right; }
 
 /* =============
     Gallery

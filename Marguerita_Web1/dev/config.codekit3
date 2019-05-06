@@ -49,26 +49,48 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"/img/gallery/gallery-1.jpg": {
+		"ft": 16384,
+		"iS": 4807,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/gallery/gallery-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/img/gallery/gallery-2.jpg": {
 		"ft": 16384,
-		"iS": 7039,
+		"iS": 13114,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/gallery/gallery-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
+		"q": 100
+		},
+	"/img/gallery/gallery-3.jpg": {
+		"ft": 16384,
+		"iS": 4178,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/img/gallery/gallery-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/img/gallery/gallery-4.jpg": {
 		"ft": 16384,
-		"iS": 5528,
+		"iS": 7296,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/gallery/gallery-4.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/img/gallery/gallery-5.jpg": {
@@ -84,21 +106,10 @@
 		},
 	"/img/gallery/gallery-6.jpg": {
 		"ft": 16384,
-		"iS": 4878,
+		"iS": 8957,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/gallery/gallery-6.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/img/gallery/gallery-7 .jpg": {
-		"ft": 16384,
-		"iS": 3817,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/img/gallery/gallery-7 .jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -106,13 +117,13 @@
 		},
 	"/img/gallery/gallery-7.jpg": {
 		"ft": 16384,
-		"iS": 9406,
+		"iS": 10028,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/gallery/gallery-7.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/img/gallery/instagram.svg": {
@@ -157,7 +168,7 @@
 		},
 	"/img/hero/hero-1.jpg": {
 		"ft": 16384,
-		"iS": 211083,
+		"iS": 61566,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/hero/hero-1.jpg",
@@ -168,7 +179,7 @@
 		},
 	"/img/hero/hero-2.jpg": {
 		"ft": 16384,
-		"iS": 28429,
+		"iS": 25160,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/img/hero/hero-2.jpg",
