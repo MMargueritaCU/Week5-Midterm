@@ -2,14 +2,50 @@
     Skills
 ============= */
 #skills{
-  background-image: url("../img/hero/hero-2.jpg");
-  background-size: cover;
-  background-position: center;
+  background-color: $darkBrown;
+  padding-bottom: 15px;
 
-  h2{
-    
+  img{
+    width: 100%;
   }
-  h3{
-    text-align: right;
+
+  h1{
+    font-size: rem-calc(20);
+    line-height: 27px;
+    font-weight: 700;
+    color: $white;
+    padding-top: 45px;
+    padding-bottom: 35px;
+  }
+  p{
+    font-size: rem-calc(16);
+    line-height: 27px;
+    color: $white;
+  }
+  ul{
+    li{
+      div{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        padding-bottom: 5px;
+        h2{
+          font-weight: 400;
+          font-size: rem-calc(16);
+          line-height: 22px;
+          color: $white;
+        }
+        h3{
+          text-align: right;
+          color: $white;
+          font-size: rem-calc(16);
+          line-height: 22px;
+        }
+      }
+      img{
+        width: 100%;
+        padding-bottom: 35px;
+      }
+    }
   }
 }
